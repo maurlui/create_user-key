@@ -1,0 +1,11 @@
+##################################################################
+#
+# Created by: Luis Maurtua			09/12/2022
+#
+##################################################################
+
+This script can created a user on Linux OS any distribution, then 
+generated a ssh key and put the private key  in /tmp folder for 
+you can extract or share it.
+
+The public key staying on .ssh folder of the user created.
